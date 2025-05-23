@@ -6,11 +6,12 @@
 - 🎓 Master’s in **Business Analytics & Big Data Systems**.
 - 📊 3 years experience in **Accounting & Finance** in the **Maritime Industry**.
 - 🏗️ Business Knowledge in **Hardware & Household Industry, Maritime Industry & Agricultural Ventures**.
-- 📈 Passionate about **Business Intelligence, Business Analytics, Data Analytics, Web Scraping**.
+- 📈 Passionate about **Business Intelligence and Analytics**.
 
 ### 🔍 Business Intelligence & Analytics Tools
 - **BI Tools:** Power BI, Tableau
 - **Languages:** Python, SQL
+- **Basic Web Design:** Familiar with HTML and CSS for building static web pages.
   
 ### 📊 Accounting & Finance Analytics
 - **Tools:** Excel, QuickBooks, Xero, Tally
