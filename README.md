@@ -3,8 +3,9 @@
 # @ArafatTraders
 
 ## 🚀 About Me
-- 🎓 Master’s in **Business Analytics & Big Data Systems**.
-- 📊 3 years experience in **Accounting & Finance** in the **Maritime Industry**.
+- 🎓 Master’s in Business Analytics & Big Data Systems at the Higher School of Economics (Graduate School of Business), Moscow, Russia**.
+- 🎓 Bachelor’s in Accounting and Information Systems at the United International University (School of Economics and Business), Dhaka, Bangladesh.
+- 📊 Three years experience in **Accounting & Finance** in the **Maritime Industry**.
 - 🏗️ Business Knowledge in **Hardware & Household Industry, Maritime Industry & Agricultural Ventures**.
 - 📈 Passionate about **Business Intelligence and Analytics**.
 
