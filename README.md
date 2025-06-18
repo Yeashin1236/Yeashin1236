@@ -18,6 +18,7 @@
 - **Tools:** Excel, QuickBooks, Xero, Tally
 
 ## 📫 Connect With Me
+[![Website](https://img.shields.io/badge/Website-Visit-green?logo=vercel)](https://arafat-website.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/md-yeashin-arafat-976241130/)
 [![Email](https://img.shields.io/badge/Email-Mail-red?logo=gmail)](mdarafat.uiu@gmail.com)
 
